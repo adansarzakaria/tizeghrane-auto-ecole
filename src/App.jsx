@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
-import Navbar from './components/layout/Navbar';
-import Footer from './components/layout/Footer';
-import Hero from './components/sections/Hero';
-import About from './components/sections/About';
-import Courses from './components/sections/Courses';
+// إلى
+import Navbar from "./Components/layout/Navbar";
+import Footer from "./Components/layout/Footer";
+import Hero from "./Components/sections/Hero";
+import About from "./Components/sections/About";
+import Courses from "./Components/sections/Courses";
 import Features from './components/sections/Features';
 import Contact from './components/sections/Contact';
 
